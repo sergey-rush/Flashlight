@@ -11,7 +11,7 @@ import android.widget.ImageView;
 import android.widget.RelativeLayout;
 
 /**
- * Created by Admin on 09.01.2018.
+ * Created by sergey-rush on 09.01.2018.
  */
 public class RotaryKnob extends RelativeLayout implements GestureDetector.OnGestureListener {
 

@@ -15,6 +15,9 @@ import android.util.Log;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
 
+/**
+ * Created by sergey-rush on 09.01.2018.
+ */
 public class MainActivity extends Activity {
 
     private DisplayProvider displayProvider = DisplayProvider.getInstance();

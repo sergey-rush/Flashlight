@@ -1,7 +1,7 @@
 package ru.flashlight;
 
 /**
- * Created by Admin on 09.01.2018.
+ * Created by sergey-rush on 09.01.2018.
  */
 
 interface RotaryKnobListener {
